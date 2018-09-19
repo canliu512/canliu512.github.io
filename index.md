@@ -76,7 +76,7 @@ Chellappan S., Cheng W., Li W. (eds) Wireless Algorithms, Systems, and Applicati
 
 <style>
 	body {
-	background-image: url(https://canliu512.github.io/th.png);
+	background-color: lightpink;
 }
 hr{
 border: 0px;
