@@ -27,7 +27,7 @@
 
 <h1 id="CanLiu">  Can Liu (刘灿)</h1>
 <p> Graduate Student<br />
- <a href="http://software.csu.edu.">/">School of Software</a><br />
+ <a href="http://software.csu.edu.">School of Software</a><br />
  <a href="http://www.csu.edu.cn/">Central South University</a><br />
 <br /></p>
 
