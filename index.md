@@ -76,7 +76,7 @@ Chellappan S., Cheng W., Li W. (eds) Wireless Algorithms, Systems, and Applicati
 
 <style>
 	body {
-	background-color: lightpink;
+	background-color: lightgray;
 }
 hr{
 border: 0px;
