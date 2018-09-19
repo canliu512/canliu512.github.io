@@ -12,8 +12,7 @@
 <link rel="canonical" href="https://canliu512.github.io/" />
 <meta property="og:url" content="https://canliu512.github.io/" />
 <meta property="og:site_name" content="Welcome to Can Liu’s Page!" />
-<script type="application/ld+json">
-{"headline":"Welcome to CanLiu’s Page!","@type":"WebSite","url":"https://canliu512.github.io/","name":"Welcome to CanLiu’s Page!","@context":"http://schema.org"}</script>
+
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/assets/css/style.css?v=5b4030e12ce9d46182909c6914eb4791499edfa7">
@@ -44,9 +43,7 @@
 
 <hr />
 <h2 id="self-introduction">Self-introduction</h2>
-<p> I am a graduate students at <a href="http://software.csu.edu.cn/">School of Software</a>,<a href="http://www.csu.edu.cn/">Central South University</a>.
-<br/>
- You can find my Chinese version resume at <A HREF="https://canliu512.github.io/resume.pdf">here</A>. 
+<p> I am a graduate students at <a href="http://software.csu.edu.cn/">School of Software</a>,<a href="http://www.csu.edu.cn/">Central South University</a>. And you can find my Chinese version resume at <A HREF="https://canliu512.github.io/resume.pdf">here</A>. 
 </p>
 
 <hr />
