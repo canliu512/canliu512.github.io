@@ -20,7 +20,7 @@
     <div class="container-lg px-3 my-5 markdown-body">
       
 
-      <p><img src="https://canliu512.github.io/psb.png" align="left" height="200px" width="180px" /></p>
+      <p><img src="https://canliu512.github.io/psb.png" align="left" height="185px" width="180px" /></p>
 
 <h1 id="CanLiu">  Can Liu (刘灿)</h1>
 <p> Graduate Student<br />
