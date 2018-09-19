@@ -1,37 +1,80 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/canliu512/canliu512.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Welcome to CanLiu’s Page!</title>
+<meta name="generator" content="Jekyll v3.7.4" />
+<meta property="og:title" content="Welcome to CanLiu’s Page!" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://canliu512.github.io/" />
+<meta property="og:url" content="https://canliu512.github.io/" />
+<meta property="og:site_name" content="Welcome to CanLiu’s Page!" />
+<script type="application/ld+json">
+{"headline":"Welcome to CanLiu’s Page!","@type":"WebSite","url":"https://canliu512.github.io/","name":"Welcome to CanLiu’s Page!","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
 
-### Markdown
+    <link rel="stylesheet" href="/assets/css/style.css?v=5b4030e12ce9d46182909c6914eb4791499edfa7">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://guihuazhou.github.io/">Welcome to Dahai's Page!</a></h1>
+      
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+      <p><img src="psb.png" align="left" height="180px" width="180px" /></p>
 
-```markdown
-Syntax highlighted code block
+<h1 id="CanLiu">  Can Liu (刘灿)</h1>
+<p> Graduate Student<br />
+ <a href="http://software.csu.edu.">/">School of Software</a><br />
+ <a href="http://www.csu.edu.cn/">Central South University</a><br />
+<br /></p>
 
-# Header 1
-## Header 2
-### Header 3
+<hr />
+<h2 id="address">Address</h2>
+<p> Room 511, School of Software,<br />
+Central South University, <br /> 
+ Changsha, Hunan, China,<br /> 
+ 410075</p>
 
-- Bulleted
-- List
+<hr />
+<h2 id="email">Work Email</h2>
+<p> liucan512@csu.edu.cn<br /></p>
 
-1. Numbered
-2. List
+<hr />
+<h2 id="self-introduction">Self-introduction</h2>
+<p> I am a graduate students at <a href=""http://software.csu.edu.cn/">School of Software</a>,<a href="http://www.csu.edu.cn/">Central South University</a>.</p>
 
-**Bold** and _Italic_ and `Code` text
+<hr />
+<h2 id="research-interest">Research Interest</h2>
+<p> My research field is Game Theory and its application under the guidance of Professor Feng Zeng.<br />
+Under the guidance of Professor <A HREF="https://1989chenguo.github.io/">Guo Chen</a>, began to study the field of Machine Learning in August 2018. 
+<br />
+</p>
 
-[Link](url) and ![Image](src)
-```
+<hr />
+<h2 id="Publications">Publications</h2>
+<p><a href="https://canliu512.github.io/paper_47.pdf">Synergistic Based Social Incentive Mechanism in Mobile Crowdsensing</a> <br />
+<b>Can Liu</b>, Feng Zeng and Lin Meng <br />
+Chellappan S., Cheng W., Li W. (eds) Wireless Algorithms, Systems, and Applications. WASA 2018. Lecture Notes in Computer Science, vol 10874. Springer, Cham
+<br />
+</p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/canliu512/canliu512.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<hr />
+<h2 id="Awards">Awards</h2>
+<ul>
+<li> Second Class Scholarship in Hunan University of Finance and Economics, 2014  </li>
+<li> Second Class Scholarship in Hunan University of Finance and Economics, 2015  </li>
+</ul>
+</p>
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+    
+  </body>
+</html>
