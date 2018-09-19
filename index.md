@@ -23,7 +23,7 @@
       <h1><a href="https://canliu512.github.io/">Welcome to Can Liu's Page!</a></h1>
       
 
-      <p><img src="https://canliu512.github.io/psb.png" align="left" height="180px" width="180px" /></p>
+      <p><img src="https://canliu512.github.io/psb.png" align="left" height="200px" width="180px" /></p>
 
 <h1 id="CanLiu">  Can Liu (刘灿)</h1>
 <p> Graduate Student<br />
