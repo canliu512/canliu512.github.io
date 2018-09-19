@@ -5,7 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.5.0 -->
-
+<meta name="generator" content="Jekyll v3.7.4" />
+<meta property="og:title" content="Welcome to CanLiu’s Page!" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://canliu512.github.io/" />
+<meta property="og:url" content="https://canliu512.github.io/" />
+<meta property="og:site_name" content="Welcome to Can Liu’s Page!" />
 
 <!-- End Jekyll SEO tag -->
 
@@ -13,8 +18,6 @@
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://canliu512.github.io/">Welcome to Can Liu's Page!</a></h1>
       
 
       <p><img src="https://canliu512.github.io/psb.png" align="left" height="200px" width="180px" /></p>
