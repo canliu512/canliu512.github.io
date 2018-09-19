@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>Welcome to CanLiu’s Page!</title>
 <meta name="generator" content="Jekyll v3.7.4" />
 <meta property="og:title" content="Welcome to CanLiu’s Page!" />
 <meta property="og:locale" content="en_US" />
