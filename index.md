@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -13,7 +11,7 @@
 <meta property="og:locale" content="en_US" />
 <link rel="canonical" href="https://canliu512.github.io/" />
 <meta property="og:url" content="https://canliu512.github.io/" />
-<meta property="og:site_name" content="Welcome to CanLiu’s Page!" />
+<meta property="og:site_name" content="Welcome to Can Liu’s Page!" />
 <script type="application/ld+json">
 {"headline":"Welcome to CanLiu’s Page!","@type":"WebSite","url":"https://canliu512.github.io/","name":"Welcome to CanLiu’s Page!","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
@@ -23,10 +21,10 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://guihuazhou.github.io/">Welcome to Dahai's Page!</a></h1>
+      <h1><a href="https://canliu512.github.io/">Welcome to Can Liu's Page!</a></h1>
       
 
-      <p><img src="psb.png" align="left" height="180px" width="180px" /></p>
+      <p><img src="https://canliu512.github.io/psb.png" align="left" height="180px" width="180px" /></p>
 
 <h1 id="CanLiu">  Can Liu (刘灿)</h1>
 <p> Graduate Student<br />
@@ -36,8 +34,7 @@
 
 <hr />
 <h2 id="address">Address</h2>
-<p> Room 511, School of Software,<br />
-Central South University, <br /> 
+<p> Room 511, School of Software, Central South University, <br /> 
  Changsha, Hunan, China,<br /> 
  410075</p>
 
@@ -47,7 +44,10 @@ Central South University, <br />
 
 <hr />
 <h2 id="self-introduction">Self-introduction</h2>
-<p> I am a graduate students at <a href=""http://software.csu.edu.cn/">School of Software</a>,<a href="http://www.csu.edu.cn/">Central South University</a>.</p>
+<p> I am a graduate students at <a href="http://software.csu.edu.cn/">School of Software</a>,<a href="http://www.csu.edu.cn/">Central South University</a>.
+<br/>
+ You can find my Chinese version resume at <A HREF="https://canliu512.github.io/resume.pdf">here</A>. 
+</p>
 
 <hr />
 <h2 id="research-interest">Research Interest</h2>
@@ -70,7 +70,7 @@ Chellappan S., Cheng W., Li W. (eds) Wireless Algorithms, Systems, and Applicati
 <li> Second Class Scholarship in Hunan University of Finance and Economics, 2014  </li>
 <li> Second Class Scholarship in Hunan University of Finance and Economics, 2015  </li>
 </ul>
-</p>
+
       
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
