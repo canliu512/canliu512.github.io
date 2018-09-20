@@ -24,7 +24,7 @@
 
 <h1 id="CanLiu">  Can Liu (刘灿)</h1>
 <p> Graduate Student<br />
- <a href="http://software.csu.edu.">School of Software</a><br />
+ <a href="http://software.csu.edu/">School of Software</a><br />
  <a href="http://www.csu.edu.cn/">Central South University</a><br />
 <br /></p>
 
@@ -35,8 +35,12 @@
  410075</p>
 
 <hr />
-<h2 id="email">Work Email</h2>
-<p> liucan512@csu.edu.cn<br /></p>
+<h2 id="email">Social</h2>
+<ul>
+<li> Work E-mail: liucan512@csu.edu.cn</li>
+<li> <a href="https://github.com/canliu512/">Github</a>  </li>
+<li> <a href="https://blog.csdn.net/CanLiu1992/">CSDN blog</a>  </li>
+</ul>
 
 <hr />
 <h2 id="self-introduction">Self-introduction</h2>
