@@ -35,9 +35,9 @@
  410075</p>
 
 <hr />
-<h2 id="email">Social</h2>
+<h2 id="social">Social</h2>
 <ul>
-<li> Work E-mail: liucan512@csu.edu.cn</li>
+<li>Work E-mail: liucan512@csu.edu.cn</li>
 <li> <a href="https://github.com/canliu512/">Github</a>  </li>
 <li> <a href="https://blog.csdn.net/CanLiu1992/">CSDN blog</a>  </li>
 </ul>
