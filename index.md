@@ -33,6 +33,12 @@
 <p> Room 511, School of Software, Central South University, <br /> 
  Changsha, Hunan, China,<br /> 
  410075</p>
+ 
+ 
+<hr />
+<h2 id="self-introduction">Self-introduction</h2>
+<p> I am a graduate students at <a href="http://software.csu.edu.cn/">School of Software</a>,<a href="http://www.csu.edu.cn/">Central South University</a>. And you can find my Chinese version resume at <A HREF="https://canliu512.github.io/resume.pdf">here</A>. 
+</p>
 
 <hr />
 <h2 id="social">Social</h2>
@@ -41,11 +47,6 @@
 <li> <a href="https://github.com/canliu512/">Github</a>  </li>
 <li> <a href="https://blog.csdn.net/CanLiu1992/">CSDN blog</a>  </li>
 </ul>
-
-<hr />
-<h2 id="self-introduction">Self-introduction</h2>
-<p> I am a graduate students at <a href="http://software.csu.edu.cn/">School of Software</a>,<a href="http://www.csu.edu.cn/">Central South University</a>. And you can find my Chinese version resume at <A HREF="https://canliu512.github.io/resume.pdf">here</A>. 
-</p>
 
 <hr />
 <h2 id="research-interest">Research Interest</h2>
